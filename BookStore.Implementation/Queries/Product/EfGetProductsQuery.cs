@@ -37,7 +37,7 @@ namespace BookStore.Implementation.Queries
             
             if (!string.IsNullOrEmpty(search.Title) || !string.IsNullOrWhiteSpace(search.Title))
             {
-                query = query.Where(x => x.Title.ToString().ToLower().Contains(search.Title.ToLower()));
+                query = query.Where(x => x.Title.ToLower().Contains(search.Title.ToLower()));
             }
             if (search.authorId != null)
             {
