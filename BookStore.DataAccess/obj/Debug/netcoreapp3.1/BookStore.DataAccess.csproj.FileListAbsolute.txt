@@ -1,0 +1,15 @@
+C:\Users\Zeka\source\repos\BookStoreASP\BookStore.DataAccess\bin\Debug\netcoreapp3.1\BookStore.DataAccess.deps.json
+C:\Users\Zeka\source\repos\BookStoreASP\BookStore.DataAccess\bin\Debug\netcoreapp3.1\BookStore.DataAccess.dll
+C:\Users\Zeka\source\repos\BookStoreASP\BookStore.DataAccess\obj\Debug\netcoreapp3.1\BookStore.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Zeka\source\repos\BookStoreASP\BookStore.DataAccess\obj\Debug\netcoreapp3.1\BookStore.DataAccess.AssemblyInfo.cs
+C:\Users\Zeka\source\repos\BookStoreASP\BookStore.DataAccess\obj\Debug\netcoreapp3.1\BookStore.DataAccess.csprojAssemblyReference.cache
+C:\Users\Zeka\source\repos\BookStoreASP\BookStore.DataAccess\bin\Debug\netcoreapp3.1\BookStore.DataAccess.runtimeconfig.json
+C:\Users\Zeka\source\repos\BookStoreASP\BookStore.DataAccess\bin\Debug\netcoreapp3.1\BookStore.DataAccess.runtimeconfig.dev.json
+C:\Users\Zeka\source\repos\BookStoreASP\BookStore.DataAccess\obj\Debug\netcoreapp3.1\BookStore.DataAccess.genruntimeconfig.cache
+C:\Users\Zeka\source\repos\BookStoreASP\BookStore.DataAccess\bin\Debug\netcoreapp3.1\BookStore.DataAccess.pdb
+C:\Users\Zeka\source\repos\BookStoreASP\BookStore.DataAccess\bin\Debug\netcoreapp3.1\BookStore.Domain.dll
+C:\Users\Zeka\source\repos\BookStoreASP\BookStore.DataAccess\bin\Debug\netcoreapp3.1\BookStore.Domain.pdb
+C:\Users\Zeka\source\repos\BookStoreASP\BookStore.DataAccess\obj\Debug\netcoreapp3.1\BookStore.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Zeka\source\repos\BookStoreASP\BookStore.DataAccess\obj\Debug\netcoreapp3.1\BookStore.DataAccess.csproj.CopyComplete
+C:\Users\Zeka\source\repos\BookStoreASP\BookStore.DataAccess\obj\Debug\netcoreapp3.1\BookStore.DataAccess.dll
+C:\Users\Zeka\source\repos\BookStoreASP\BookStore.DataAccess\obj\Debug\netcoreapp3.1\BookStore.DataAccess.pdb

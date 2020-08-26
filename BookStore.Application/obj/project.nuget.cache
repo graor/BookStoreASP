@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hWjUXBIr3qTmDsXz9jmLd/FWqGH1VO/lr5SnwAA+YozjU7jA5bIc/2olkwDeMbpQ7MswsEPKfICk4jCLOEvpNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zeka\\source\\repos\\BookStoreASP\\BookStore.Application\\BookStore.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zeka\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
