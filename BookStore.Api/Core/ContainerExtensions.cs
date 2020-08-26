@@ -91,6 +91,7 @@ namespace BookStore.Api.Core
 
             services.AddTransient<IGetOrdersQuery, EfGetOrdersQuery>(); //29
             services.AddTransient<IGetOrderQuery, EfGetOrderQuery>(); //30
+            services.AddTransient<IGetUseCaseQuery, EfGetUseCaseLogsQuery>(); //31
         }
 
         public static void AddJwt(this IServiceCollection services, AppSettings appSettings)
