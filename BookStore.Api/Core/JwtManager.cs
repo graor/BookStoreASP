@@ -62,7 +62,7 @@ namespace BookStore.Api.Core
                 audience: "Any",
                 claims: claims,
                 notBefore: now,
-                expires: now.AddSeconds(3000),
+                expires: now.AddSeconds(30),
                 signingCredentials: credentials);
 
             return new JwtSecurityTokenHandler().WriteToken(token);

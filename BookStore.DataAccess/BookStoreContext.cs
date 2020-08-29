@@ -21,6 +21,11 @@ namespace BookStore.DataAccess
             modelBuilder.ApplyConfiguration(new ProductPicConfiguration());
 
             modelBuilder.Entity<Group>().HasQueryFilter(x => !x.IsDeleted);
+            modelBuilder.Entity<Author>().HasQueryFilter(x => !x.IsDeleted);
+            modelBuilder.Entity<User>().HasQueryFilter(x => !x.IsDeleted);
+            modelBuilder.Entity<Product>().HasQueryFilter(x => !x.IsDeleted);
+            modelBuilder.Entity<Order>().HasQueryFilter(x => !x.IsDeleted);
+            modelBuilder.Entity<Genre>().HasQueryFilter(x => !x.IsDeleted);
             base.OnModelCreating(modelBuilder);
         }
 
